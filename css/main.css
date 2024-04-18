@@ -2187,7 +2187,8 @@ header .logo a {
  */
 #stats {
 	/* background: #9900ff; */
-	background-image: url(../images/Black\ Minimal\ Motivation\ Quote\ LinkedIn\ Banner.png);
+	/* background-image: url(../images/Black\ Minimal\ Motivation\ Quote\ LinkedIn\ Banner.png); */
+	background-color: #f39224;
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding-top: 7.2rem;
